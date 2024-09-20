@@ -26,7 +26,7 @@ This is a simple mobile app built with React Native that displays a list of prod
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/deshmukh-tushar/React-native-EcommerceApp.git
+   git clone https://github.com/deshmukh-tushar/reactNative-Assignment-.git
    cd newapp
 ##Install dependencies:
   - npm install
